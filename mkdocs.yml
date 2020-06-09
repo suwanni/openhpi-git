@@ -1,4 +1,4 @@
-site_name: openHPI Git Kurs
+site_name: Meine openHPI Git Kurs Daten
 site_url: https://maroph.github.io/openhpi-git/
 site_description: Meine openHPI Git Kurs Daten
 site_author: Manfred Rosenboom (maroph)
@@ -8,8 +8,9 @@ repo_url: https://github.com/maroph/openhpi-git/
 # editable version
 # edit_uri: "edit/master/docs-src"
 # view readonly version
-# edit_uri: "blob/master/docs-src"
-edit_uri: ""
+edit_uri: "blob/master/docs-src"
+# link to the GitHub project page
+# edit_uri: ""
 
 theme:
     name: mkdocs
