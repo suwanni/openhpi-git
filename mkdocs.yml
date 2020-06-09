@@ -1,0 +1,32 @@
+site_name: My GitHub Site
+site_url: https://maroph.github.io/openhpi-git/
+site_description: My GitHub related site
+site_author: Manfred Rosenboom (maroph)
+
+repo_name: GitHub
+repo_url: https://github.com/maroph/openhpi-git/
+# edit_uri: "edit/master/docs-src"
+# view readonly version
+# edit_uri: "blob/master/docs-src"
+edit_uri: ""
+
+theme:
+    name: mkdocs
+
+nav:
+    - Home: index.md
+    - Info:
+        - About: https://github.com/maroph
+        - License: info/license.md
+        - Sources: info/sources.md
+
+docs_dir: docs-src
+site_dir: docs
+
+use_directory_urls: false
+
+copyright: Copyright (c) 2020 <a href="https://github.com/maroph">Manfred Rosenboom (maroph)</a>
+
+plugins:
+    - search
+
