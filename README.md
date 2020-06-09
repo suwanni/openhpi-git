@@ -32,7 +32,7 @@ Unter Debian kann man die fehlenden Module folgendermaßen installieren:
     python -m pip install --upgrade pip
     python -m pip install --upgrade setuptools
     python -m pip install --upgrade wheel
-    python -m pip install --requirement ./requirements.txt
+    python -m pip freeze > ./requirements.txt
 
 ## Erzeugen der Dokumente im Verzeichnis docs
 
