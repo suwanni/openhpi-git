@@ -41,21 +41,10 @@ Unter Debian kann man die fehlenden Module folgendermaßen installieren:
 
 ## Speichern (Committen) der Dateien im lokalen Git Repository
 
+    git add .
     git commit -m "my commit message"
 
 ## Push in das GitHub Repository
 
     git push
-
-## Hasht des letzen Commits im lokalen Repository
-
-    git rev-parse HEAD
-
-Oder auch (Hash in der Kurzform)
-
-    git rev-parse --short HEAD
-
-## Pull aus dem GitHub Repository in das lokale Repository
-
-    git pull
 

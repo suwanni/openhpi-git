@@ -18,9 +18,8 @@ theme:
 nav:
     - Home: index.md
     - Info:
-        - About: https://github.com/maroph
+        - Autor: https://github.com/maroph
         - License: info/license.md
-        - Sources: info/sources.md
 
 docs_dir: docs-src
 site_dir: docs
