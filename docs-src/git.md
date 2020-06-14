@@ -1,6 +1,8 @@
 # Git Beispiele
 
 ## Git Lokal/Remote Repository auf einem Rechner
+Im folgenden Beispiel werden die beiden Repositories in gleichen Verzeichnis
+angelegt.
 
 
 ### Remote Repository anlegen
