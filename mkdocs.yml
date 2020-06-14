@@ -8,15 +8,24 @@ repo_url: https://github.com/maroph/openhpi-git/
 # editable version
 # edit_uri: "edit/master/docs-src"
 # view readonly version
-edit_uri: "blob/master/docs-src"
+# edit_uri: "blob/master/docs-src"
 # link to the GitHub project page
-# edit_uri: ""
+edit_uri: ""
 
 theme:
     name: mkdocs
 
 nav:
     - Home: index.md
+    - Beispiele:
+        - Git: git.md
+        - GitHub: github.md
+    - Links:
+        - Git Buch "Pro Git": https://git-scm.com/book/de/v2/
+        - How Git Works: https://www.pluralsight.com/courses/how-git-works
+        - The Git Parable: https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+        - A successful Git branching model: https://nvie.com/posts/a-successful-git-branching-model
+        - TortoiseGit: https://tortoisegit.org/
     - Info:
         - Autor: https://github.com/maroph
         - License: info/license.md
