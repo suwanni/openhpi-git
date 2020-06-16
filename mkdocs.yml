@@ -14,6 +14,7 @@ edit_uri: ""
 
 theme:
     name: mkdocs
+    include_next_prev: false
 
 nav:
     - Home: index.md
@@ -22,9 +23,12 @@ nav:
         - GitHub: github.md
     - Links:
         - Git Buch "Pro Git": https://git-scm.com/book/de/v2/
+        - Git Reference: https://git-scm.com/docs/
         - How Git Works: https://www.pluralsight.com/courses/how-git-works
         - The Git Parable: https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+        - Git Workflows vergleichen: https://www.atlassian.com/de/git/tutorials/comparing-workflows
         - A successful Git branching model: https://nvie.com/posts/a-successful-git-branching-model
+        - Gitblit: https://gitblit.github.io/gitblit/
         - TortoiseGit: https://tortoisegit.org/
     - Info:
         - Autor: https://github.com/maroph

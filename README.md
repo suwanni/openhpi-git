@@ -11,7 +11,8 @@ Webseite ist unter der URL
 
 <https://maroph.github.io/openhpi-git>
 
-zu erreichen.
+zu erreichen. Die Quelle für die GitHub Pages ist das Verzeichnis docs im Branch
+master.
 
 ## Erzeugen des Content mitr Hilfe des Python Moduls mkdocs
 Den Content der Webseite erzeuge ich aus 
